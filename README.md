@@ -37,7 +37,23 @@ Contents
 3. Install
 ==============================
 
-coming soon...
+* Ubuntu, Linux Mint (PPA)
+  <pre>
+   sudo add-apt-repository ppa:misamplus/generic
+   sudo apt-get update
+   sudo apt-get install charset-converter
+  </pre>
+* Debian
+  1. The PPA can be added to your system manually by copying the lines below and adding them to your system's software sources (/etc/apt-get/sources.list).
+   <pre>
+    deb http://ppa.launchpad.net/misamplus/generic/ubuntu trusty main
+    deb-src http://ppa.launchpad.net/misamplus/generic/ubuntu trusty main
+   </pre>
+  2. Now install it.
+  	<pre>
+     sudo apt-get update
+     sudo apt-get install charset-converter
+    </pre>
 
 4. How To Use
 ==============================
