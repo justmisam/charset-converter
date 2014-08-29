@@ -59,7 +59,9 @@ Contents
 ==============================
 
  * Terminal
-  * charset-converter filename encoding [output_filename]
+  <pre>
+  	charset-converter filename encoding [output_filename]
+  </pre>
  * GUI
   * Normal use (Opening it and etc).
   * Select a file and open it with this program.
