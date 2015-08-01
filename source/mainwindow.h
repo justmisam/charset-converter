@@ -4,7 +4,7 @@
  * @package Charset Converter
  * @since Charset Converter 1.0
  * @license GNU General Public License v3 or later
- * @copyright (C) 2014 Misam Saki, misam.ir
+ * @copyright (C) 2015 Misam Saki, misam.ir
  * @author Misam Saki, http://misam.ir/
  */
 
