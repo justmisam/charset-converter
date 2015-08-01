@@ -21,3 +21,5 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     icon.qrc
+
+macx:ICON = $${PWD}/icon.icns
