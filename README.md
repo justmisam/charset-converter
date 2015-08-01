@@ -19,7 +19,7 @@ Contents
 ==============================
 
 * Package: Charset Converter
-* Version: 1.0
+* Version: 1.1
 * Since: Charset Converter 1.0
 * Application URI: http://github.com/misamplus/charset-converter/
 * Github: http://github.com/misamplus/charset-converter/
