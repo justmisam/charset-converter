@@ -159,6 +159,6 @@ void MainWindow::close() {
     QApplication::quit();
 }
 void MainWindow::showAbout() {
-    QMessageBox::information(this, tr("About"), "Charset Converter\nVersion 1.0\nLicense GNU General Public License v3 or later\nCopyright (C) 2014 Misam Saki, misam.ir\nAuthor: Misam Saki, http://misam.ir/\nGithub: http://github.com/misamplus/charset-converter/");
+    QMessageBox::information(this, tr("About"), "Charset Converter\nVersion 1.1\nLicense GNU General Public License v3 or later\nCopyright (C) 2015 Misam Saki, misam.ir\nAuthor: Misam Saki, http://misam.ir/\nGithub: http://github.com/misamplus/charset-converter/");
 }
 
