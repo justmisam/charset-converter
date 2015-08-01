@@ -38,7 +38,7 @@ Contents
 ==============================
 
 * Mac OS X
-  Download <a titile="Charset Converter for Mac OS X" href="https://github.com/misamplus/charset-converter/raw/master/output/Mac%20OS%20X/Charset%20Converter.zip">this package</a>, unzip and move it in Application folder.
+  1. Download <a titile="Charset Converter for Mac OS X" href="https://github.com/misamplus/charset-converter/raw/master/output/Mac%20OS%20X/Charset%20Converter.zip">this package</a>, unzip and move it in Application folder.
 * Ubuntu, Linux Mint (PPA)
   <pre>
    sudo add-apt-repository ppa:misamplus/generic
